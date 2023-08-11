@@ -91,8 +91,6 @@ const navLogic = ()=>{
                 })
                 
                 displayUsers(filteredUsers)
-
-                
         })
 
 
